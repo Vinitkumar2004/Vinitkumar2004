@@ -4,9 +4,9 @@
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **I'm currently learning Generative AI**
+- 🌱 I’m currently learning: **Generative AI**
 - 🔭 I’m currently working on: **Chatbot**
-- 💬 Ask me about: **Feel free to ask anything related to tech field**
+- 💬 Ask me about: **Anything related to tech field**
 - 📫 How to reach me: [vinitkumar100204@gmail.com](mailto:vinitkumar100204@gmail.com)
 - 📄 **[My Resume](https://drive.google.com/file/d/1IHpHanJ65jJ6LekpIJGMovIR_yxc4ZZh/view?usp=sharing)**
 
